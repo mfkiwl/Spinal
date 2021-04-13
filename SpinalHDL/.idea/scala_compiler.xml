@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="spinalhdl_6291" />
+    <profile name="sbt 3" modules="SpinalHDL-all,SpinalHDL-idsl-payload,SpinalHDL-idsl-plugin,SpinalHDL-sim">
+      <option name="uncheckedWarnings" value="true" />
+      <parameters>
+        <parameter value="-target:jvm-1.7" />
+      </parameters>
+    </profile>
+    <profile name="sbt 4" modules="SpinalHDL Debugger,SpinalHDL-core,SpinalHDL-demo,SpinalHDL-lib,SpinalHDL-tester">
+      <option name="uncheckedWarnings" value="true" />
+      <parameters>
+        <parameter value="-target:jvm-1.7" />
+      </parameters>
+      <plugins>
+        <plugin path="$PROJECT_DIR$/idslplugin/target/scala-2.11/spinalhdl-idsl-plugin_2.11-1.4.4.jar" />
+      </plugins>
+    </profile>
+  </component>
+</project>

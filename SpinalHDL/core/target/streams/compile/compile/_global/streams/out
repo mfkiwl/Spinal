@@ -1,0 +1,10 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/victor/work_dxs/SpinalHDL/core/src/main/scala/spinal/core/ClockDomain.scala:244:5: a pure expression does nothing in statement position; you may be omitting necessary parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m    this[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/victor/work_dxs/SpinalHDL/core/src/main/scala/spinal/core/internals/Phase.scala:2197:25: non-variable type argument spinal.core.SpinalEnum in type pattern spinal.core.SpinalEnumCraft[spinal.core.SpinalEnum] is unchecked since it is eliminated by erasure[0m
+[0m[[0m[33mwarn[0m] [0m[0m                case d: SpinalEnumCraft[SpinalEnum] => d.init(d.spinalEnum.elements(0))[0m
+[0m[[0m[33mwarn[0m] [0m[0m                        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere was one deprecation warning; re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere were two feature warnings; re-run with -feature for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mfour warnings found[0m
+[0m[[0m[33mwarn[0m] [0m[0m未与 -source 1.7 一起设置引导类路径[0m

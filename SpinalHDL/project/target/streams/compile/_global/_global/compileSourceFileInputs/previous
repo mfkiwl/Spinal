@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.12.10":{"hashes":[["/home/victor/work_dxs/SpinalHDL/project/Version.scala","83407a16de5a16036023203ca92a054847c15464"]],"lastModifiedTimes":[]}}]

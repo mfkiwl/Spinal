@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="victor" name="spinal.tester.scalatest.RomTesterCocotbBoot" tests="2" errors="0" failures="1" skipped="0" time="0.21" timestamp="2021-04-10T17:49:54">
+                     <properties>
+      <property name="jline.esc.timeout" value="0"/><property name="jna.platform.library.path" value="/usr/lib/x86_64-linux-gnu:/lib/x86_64-linux-gnu:/lib64:/usr/lib:/lib"/><property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/><property name="sun.boot.library.path" value="/opt/jdk1.8.0_281/jre/lib/amd64"/><property name="java.vm.version" value="25.281-b09"/><property name="java.vm.vendor" value="Oracle Corporation"/><property name="java.vendor.url" value="http://java.oracle.com/"/><property name="path.separator" value=":"/><property name="jna.loaded" value="true"/><property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/><property name="file.encoding.pkg" value="sun.io"/><property name="user.country" value="CN"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="sun.os.patch.level" value="unknown"/><property name="jna.nosys" value="true"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="user.dir" value="/home/victor/work_dxs/SpinalHDL"/><property name="java.runtime.version" value="1.8.0_281-b09"/><property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/><property name="java.endorsed.dirs" value="/opt/jdk1.8.0_281/jre/lib/endorsed"/><property name="os.arch" value="amd64"/><property name="java.io.tmpdir" value="/tmp"/><property name="line.separator" value="
+"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="log4j.ignoreTCL" value="true"/><property name="os.name" value="Linux"/><property name="sun.jnu.encoding" value="UTF-8"/><property name="jnidispatch.path" value="/tmp/jna--816693433/jna6881668056392416825.tmp"/><property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib"/><property name="java.specification.name" value="Java Platform API Specification"/><property name="java.class.version" value="52.0"/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="os.version" value="5.4.0-42-generic"/><property name="swoval.tmpdir" value="/home/victor/.sbt/1.0"/><property name="user.home" value="/home/victor"/><property name="user.timezone" value="Asia/Shanghai"/><property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/><property name="file.encoding" value="UTF-8"/><property name="java.specification.version" value="1.8"/><property name="java.class.path" value="/opt/sbt/bin/sbt-launch.jar"/><property name="user.name" value="victor"/><property name="jline.shutdownhook" value="false"/><property name="java.vm.specification.version" value="1.8"/><property name="sun.java.command" value="/opt/sbt/bin/sbt-launch.jar test"/><property name="java.home" value="/opt/jdk1.8.0_281/jre"/><property name="sun.arch.data.model" value="64"/><property name="user.language" value="zh"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="awt.toolkit" value="sun.awt.X11.XToolkit"/><property name="java.vm.info" value="mixed mode"/><property name="java.version" value="1.8.0_281"/><property name="java.ext.dirs" value="/opt/jdk1.8.0_281/jre/lib/ext:/usr/java/packages/lib/ext"/><property name="sun.boot.class.path" value="/opt/jdk1.8.0_281/jre/lib/resources.jar:/opt/jdk1.8.0_281/jre/lib/rt.jar:/opt/jdk1.8.0_281/jre/lib/sunrsasign.jar:/opt/jdk1.8.0_281/jre/lib/jsse.jar:/opt/jdk1.8.0_281/jre/lib/jce.jar:/opt/jdk1.8.0_281/jre/lib/charsets.jar:/opt/jdk1.8.0_281/jre/lib/jfr.jar:/opt/jdk1.8.0_281/jre/classes"/><property name="java.vendor" value="Oracle Corporation"/><property name="file.separator" value="/"/><property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/><property name="sun.io.unicode.encoding" value="UnicodeLittle"/><property name="sun.cpu.endian" value="little"/><property name="sun.desktop" value="gnome"/><property name="sun.cpu.isalist" value=""/>
+    </properties>
+                     <testcase classname="spinal.tester.scalatest.RomTesterCocotbBoot" name="genVerilog" time="0.112">
+                                                 
+                                               </testcase><testcase classname="spinal.tester.scalatest.RomTesterCocotbBoot" name="cocotbVerilog" time="0.098">
+                                                 <failure message="org.scalatest.exceptions.TestFailedException: SpinalTesterCocotbBase.this.cocotbMustPass was true, and pass was false Simulation fail" type="sbt.ForkMain$ForkError">sbt.ForkMain$ForkError: org.scalatest.exceptions.TestFailedException: SpinalTesterCocotbBase.this.cocotbMustPass was true, and pass was false Simulation fail
+	at org.scalatest.Assertions$class.newAssertionFailedException(Assertions.scala:500)
+	at org.scalatest.FunSuite.newAssertionFailedException(FunSuite.scala:1555)
+	at org.scalatest.Assertions$AssertionsHelper.macroAssert(Assertions.scala:466)
+	at spinal.tester.scalatest.SpinalTesterCocotbBase.doTest(SpinalTesterCocotbBase.scala:78)
+	at spinal.tester.scalatest.SpinalTesterCocotbBase$$anonfun$8$$anonfun$apply$2.apply$mcV$sp(SpinalTesterCocotbBase.scala:98)
+	at spinal.tester.scalatest.SpinalTesterCocotbBase$$anonfun$8$$anonfun$apply$2.apply(SpinalTesterCocotbBase.scala:98)
+	at spinal.tester.scalatest.SpinalTesterCocotbBase$$anonfun$8$$anonfun$apply$2.apply(SpinalTesterCocotbBase.scala:98)
+	at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)
+	at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)
+	at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)
+	at org.scalatest.Transformer.apply(Transformer.scala:22)
+	at org.scalatest.Transformer.apply(Transformer.scala:20)
+	at org.scalatest.FunSuiteLike$$anon$1.apply(FunSuiteLike.scala:166)
+	at org.scalatest.Suite$class.withFixture(Suite.scala:1122)
+	at org.scalatest.FunSuite.withFixture(FunSuite.scala:1555)
+	at org.scalatest.FunSuiteLike$class.invokeWithFixture$1(FunSuiteLike.scala:163)
+	at org.scalatest.FunSuiteLike$$anonfun$runTest$1.apply(FunSuiteLike.scala:175)
+	at org.scalatest.FunSuiteLike$$anonfun$runTest$1.apply(FunSuiteLike.scala:175)
+	at org.scalatest.SuperEngine.runTestImpl(Engine.scala:306)
+	at org.scalatest.FunSuiteLike$class.runTest(FunSuiteLike.scala:175)
+	at org.scalatest.FunSuite.runTest(FunSuite.scala:1555)
+	at org.scalatest.FunSuiteLike$$anonfun$runTests$1.apply(FunSuiteLike.scala:208)
+	at org.scalatest.FunSuiteLike$$anonfun$runTests$1.apply(FunSuiteLike.scala:208)
+	at org.scalatest.SuperEngine$$anonfun$traverseSubNodes$1$1.apply(Engine.scala:413)
+	at org.scalatest.SuperEngine$$anonfun$traverseSubNodes$1$1.apply(Engine.scala:401)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at org.scalatest.SuperEngine.traverseSubNodes$1(Engine.scala:401)
+	at org.scalatest.SuperEngine.org$scalatest$SuperEngine$$runTestsInBranch(Engine.scala:396)
+	at org.scalatest.SuperEngine.runTestsImpl(Engine.scala:483)
+	at org.scalatest.FunSuiteLike$class.runTests(FunSuiteLike.scala:208)
+	at org.scalatest.FunSuite.runTests(FunSuite.scala:1555)
+	at org.scalatest.Suite$class.run(Suite.scala:1424)
+	at org.scalatest.FunSuite.org$scalatest$FunSuiteLike$$super$run(FunSuite.scala:1555)
+	at org.scalatest.FunSuiteLike$$anonfun$run$1.apply(FunSuiteLike.scala:212)
+	at org.scalatest.FunSuiteLike$$anonfun$run$1.apply(FunSuiteLike.scala:212)
+	at org.scalatest.SuperEngine.runImpl(Engine.scala:545)
+	at org.scalatest.FunSuiteLike$class.run(FunSuiteLike.scala:212)
+	at org.scalatest.FunSuite.run(FunSuite.scala:1555)
+	at org.scalatest.tools.Framework.org$scalatest$tools$Framework$$runSuite(Framework.scala:462)
+	at org.scalatest.tools.Framework$ScalaTestTask.execute(Framework.scala:671)
+	at sbt.ForkMain$Run.lambda$runTest$1(ForkMain.java:304)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+</failure>
+                                               </testcase>
+                     <system-out><![CDATA[]]></system-out>
+                     <system-err><![CDATA[]]></system-err>
+                   </testsuite>

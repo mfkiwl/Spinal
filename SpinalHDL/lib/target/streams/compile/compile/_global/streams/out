@@ -1,0 +1,72 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/victor/work_dxs/SpinalHDL/lib/src/main/scala/spinal/lib/bus/bmb/BmbInterconnectGenerator.scala:203:9: a pure expression does nothing in statement position; you may be omitting necessary parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m        arbiter[0m
+[0m[[0m[33mwarn[0m] [0m[0m        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/victor/work_dxs/SpinalHDL/lib/src/main/scala/spinal/lib/com/jtag/JtagTap.scala:116:5: a pure expression does nothing in statement position; you may be omitting necessary parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m    area[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/victor/work_dxs/SpinalHDL/lib/src/main/scala/spinal/lib/com/jtag/JtagTap.scala:122:5: a pure expression does nothing in statement position; you may be omitting necessary parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m    area[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/victor/work_dxs/SpinalHDL/lib/src/main/scala/spinal/lib/com/jtag/JtagTap.scala:128:5: a pure expression does nothing in statement position; you may be omitting necessary parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m    area[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/victor/work_dxs/SpinalHDL/lib/src/main/scala/spinal/lib/com/jtag/JtagTap.scala:133:5: a pure expression does nothing in statement position; you may be omitting necessary parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m    area[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/victor/work_dxs/SpinalHDL/lib/src/main/scala/spinal/lib/com/jtag/JtagTapInstructions.scala:193:5: a pure expression does nothing in statement position; you may be omitting necessary parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m    area[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/victor/work_dxs/SpinalHDL/lib/src/main/scala/spinal/lib/com/jtag/JtagTapInstructions.scala:198:5: a pure expression does nothing in statement position; you may be omitting necessary parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m    area[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/victor/work_dxs/SpinalHDL/lib/src/main/scala/spinal/lib/com/jtag/JtagTapInstructions.scala:203:5: a pure expression does nothing in statement position; you may be omitting necessary parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m    area[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/victor/work_dxs/SpinalHDL/lib/src/main/scala/spinal/lib/com/jtag/lattice/ecp5/JtagTap.scala:140:5: a pure expression does nothing in statement position; you may be omitting necessary parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m    area[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/victor/work_dxs/SpinalHDL/lib/src/main/scala/spinal/lib/com/jtag/lattice/ecp5/JtagTap.scala:146:5: a pure expression does nothing in statement position; you may be omitting necessary parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m    area[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/victor/work_dxs/SpinalHDL/lib/src/main/scala/spinal/lib/com/jtag/lattice/ecp5/JtagTap.scala:152:5: a pure expression does nothing in statement position; you may be omitting necessary parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m    area[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/victor/work_dxs/SpinalHDL/lib/src/main/scala/spinal/lib/Stream.scala:129:5: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following inputs: (false, true, true), (true, false, true), (true, true, true)[0m
+[0m[[0m[33mwarn[0m] [0m[0m    (m2s, s2m, halfRate) match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/victor/work_dxs/SpinalHDL/lib/src/main/scala/spinal/lib/bus/regif/RegInst.scala:282:7: Exhaustivity analysis reached max recursion depth, not all missing cases are reported.[0m
+[0m[[0m[33mwarn[0m] [0m[0m(Please try with scalac -Ypatmat-exhaust-depth 40 or -Ypatmat-exhaust-depth off.)[0m
+[0m[[0m[33mwarn[0m] [0m[0m      accType match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/victor/work_dxs/SpinalHDL/lib/src/main/scala/spinal/lib/system/dma/sg/MemoryCore.scala:111:7: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: (true, true)[0m
+[0m[[0m[33mwarn[0m] [0m[0m      (p.writes(self).absolutePriority, p.writes(other).absolutePriority) match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/victor/work_dxs/SpinalHDL/lib/src/main/scala/spinal/lib/system/dma/sg/MemoryCore.scala:197:7: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: (true, true)[0m
+[0m[[0m[33mwarn[0m] [0m[0m      (p.reads(self).absolutePriority, p.reads(other).absolutePriority) match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/victor/work_dxs/SpinalHDL/lib/src/main/scala/spinal/lib/bus/regif/BusIfAdapter/Axi4BusInterface.scala:1:1: [0m
+[0m[[0m[33mwarn[0m] [0m[0mFound names but no class, trait or object is defined in the compilation unit.[0m
+[0m[[0m[33mwarn[0m] [0m[0mThe incremental compiler cannot record the dependency information in such case.[0m
+[0m[[0m[33mwarn[0m] [0m[0mSome errors like unused import referring to a non-existent class might not be reported.[0m
+[0m[[0m[33mwarn[0m] [0m[0m    [0m
+[0m[[0m[33mwarn[0m] [0m[0mpackage spinal.lib.bus.regif[0m
+[0m[[0m[33mwarn[0m] [0m[0m^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/victor/work_dxs/SpinalHDL/lib/src/main/scala/spinal/lib/bus/regif/BusIfAdapter/AxiLite4BusInterface.scala:1:1: [0m
+[0m[[0m[33mwarn[0m] [0m[0mFound names but no class, trait or object is defined in the compilation unit.[0m
+[0m[[0m[33mwarn[0m] [0m[0mThe incremental compiler cannot record the dependency information in such case.[0m
+[0m[[0m[33mwarn[0m] [0m[0mSome errors like unused import referring to a non-existent class might not be reported.[0m
+[0m[[0m[33mwarn[0m] [0m[0m    [0m
+[0m[[0m[33mwarn[0m] [0m[0mpackage spinal.lib.bus.regif[0m
+[0m[[0m[33mwarn[0m] [0m[0m^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/victor/work_dxs/SpinalHDL/lib/src/main/scala/spinal/lib/com/usb/Usb.scala:1:1: [0m
+[0m[[0m[33mwarn[0m] [0m[0mFound names but no class, trait or object is defined in the compilation unit.[0m
+[0m[[0m[33mwarn[0m] [0m[0mThe incremental compiler cannot record the dependency information in such case.[0m
+[0m[[0m[33mwarn[0m] [0m[0mSome errors like unused import referring to a non-existent class might not be reported.[0m
+[0m[[0m[33mwarn[0m] [0m[0m    [0m
+[0m[[0m[33mwarn[0m] [0m[0mpackage spinal.lib.com.usb[0m
+[0m[[0m[33mwarn[0m] [0m[0m^[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere were 11 feature warnings; re-run with -feature for details[0m
+[0m[[0m[33mwarn[0m] [0m[0m19 warnings found[0m

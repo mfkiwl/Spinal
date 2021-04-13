@@ -1,0 +1,5 @@
+[0m[[0m[33mwarn[0m] [0m[0mthere was one feature warning; re-run with -feature for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[33mwarn[0m] [0m[0m未与 -source 1.7 一起设置引导类路径[0m
+[0m[[0m[0minfo[0m] [0m[0m/home/victor/work_dxs/SpinalHDL/tester/src/main/java/DynamicCompiler.java: /home/victor/work_dxs/SpinalHDL/tester/src/main/java/DynamicCompiler.java使用了未经检查或不安全的操作。[0m
+[0m[[0m[0minfo[0m] [0m[0m/home/victor/work_dxs/SpinalHDL/tester/src/main/java/DynamicCompiler.java: 有关详细信息, 请使用 -Xlint:unchecked 重新编译。[0m

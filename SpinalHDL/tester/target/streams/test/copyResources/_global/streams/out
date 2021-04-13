@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/victor/work_dxs/SpinalHDL/tester/src/test/resources/DataCache_tb.vhd,/home/victor/work_dxs/SpinalHDL/tester/target/scala-2.11/test-classes/DataCache_tb.vhd)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/victor/work_dxs/SpinalHDL/tester/src/test/resources/JtagAvalonDebugger_tb.vhd,/home/victor/work_dxs/SpinalHDL/tester/target/scala-2.11/test-classes/JtagAvalonDebugger_tb.vhd)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/victor/work_dxs/SpinalHDL/tester/src/test/resources/StreamTester_tb.vhd,/home/victor/work_dxs/SpinalHDL/tester/target/scala-2.11/test-classes/StreamTester_tb.vhd)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/victor/work_dxs/SpinalHDL/tester/src/test/resources/UartCtrlUsageExample_tb.vhd,/home/victor/work_dxs/SpinalHDL/tester/target/scala-2.11/test-classes/UartCtrlUsageExample_tb.vhd)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/victor/work_dxs/SpinalHDL/tester/src/test/resources/MandelbrotTester.ref,/home/victor/work_dxs/SpinalHDL/tester/target/scala-2.11/test-classes/MandelbrotTester.ref)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/victor/work_dxs/SpinalHDL/tester/src/test/resources/SerdesSerialTester_tb.vhd,/home/victor/work_dxs/SpinalHDL/tester/target/scala-2.11/test-classes/SerdesSerialTester_tb.vhd)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/victor/work_dxs/SpinalHDL/tester/src/test/resources/MultiClockTester_tb.vhd,/home/victor/work_dxs/SpinalHDL/tester/target/scala-2.11/test-classes/MultiClockTester_tb.vhd)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/victor/work_dxs/SpinalHDL/tester/src/test/resources/Core_tb.vhd,/home/victor/work_dxs/SpinalHDL/tester/target/scala-2.11/test-classes/Core_tb.vhd)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/victor/work_dxs/SpinalHDL/tester/src/test/resources/WhenTester_tb.vhd,/home/victor/work_dxs/SpinalHDL/tester/target/scala-2.11/test-classes/WhenTester_tb.vhd)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/victor/work_dxs/SpinalHDL/tester/src/test/resources/GrayCounterTester_tb.vhd,/home/victor/work_dxs/SpinalHDL/tester/target/scala-2.11/test-classes/GrayCounterTester_tb.vhd)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/victor/work_dxs/SpinalHDL/tester/src/test/resources/CoreWrapperV_tb.vhd,/home/victor/work_dxs/SpinalHDL/tester/target/scala-2.11/test-classes/CoreWrapperV_tb.vhd)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/victor/work_dxs/SpinalHDL/tester/src/test/resources/CommonTester_tb.vhd,/home/victor/work_dxs/SpinalHDL/tester/target/scala-2.11/test-classes/CommonTester_tb.vhd)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/victor/work_dxs/SpinalHDL/tester/src/test/resources/RomTester_tb.vhd,/home/victor/work_dxs/SpinalHDL/tester/target/scala-2.11/test-classes/RomTester_tb.vhd)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/victor/work_dxs/SpinalHDL/tester/src/test/resources/InternalClockTester_tb.vhd,/home/victor/work_dxs/SpinalHDL/tester/target/scala-2.11/test-classes/InternalClockTester_tb.vhd)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/victor/work_dxs/SpinalHDL/tester/src/test/resources/UartTesterGhdl_tb.vhd,/home/victor/work_dxs/SpinalHDL/tester/target/scala-2.11/test-classes/UartTesterGhdl_tb.vhd)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/victor/work_dxs/SpinalHDL/tester/src/test/resources/MandelbrotDemo_tb.do,/home/victor/work_dxs/SpinalHDL/tester/target/scala-2.11/test-classes/MandelbrotDemo_tb.do)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/victor/work_dxs/SpinalHDL/tester/src/test/resources/FixedPointTester_tb.vhd,/home/victor/work_dxs/SpinalHDL/tester/target/scala-2.11/test-classes/FixedPointTester_tb.vhd)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/victor/work_dxs/SpinalHDL/tester/src/test/resources/MandelbrotTester_tb.vhd,/home/victor/work_dxs/SpinalHDL/tester/target/scala-2.11/test-classes/MandelbrotTester_tb.vhd)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/victor/work_dxs/SpinalHDL/tester/src/test/resources/CoreWrapper_tb.vhd,/home/victor/work_dxs/SpinalHDL/tester/target/scala-2.11/test-classes/CoreWrapper_tb.vhd)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/victor/work_dxs/SpinalHDL/tester/src/test/resources/LibTester_tb.vhd,/home/victor/work_dxs/SpinalHDL/tester/target/scala-2.11/test-classes/LibTester_tb.vhd)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/victor/work_dxs/SpinalHDL/tester/src/test/resources/BundleTester_tb.vhd,/home/victor/work_dxs/SpinalHDL/tester/target/scala-2.11/test-classes/BundleTester_tb.vhd)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/victor/work_dxs/SpinalHDL/tester/src/test/resources/AvalonVgaCtrl_tb.vhd,/home/victor/work_dxs/SpinalHDL/tester/target/scala-2.11/test-classes/AvalonVgaCtrl_tb.vhd)[0m

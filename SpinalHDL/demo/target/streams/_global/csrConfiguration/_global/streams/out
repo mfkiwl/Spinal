@@ -1,0 +1,1 @@
+[warn] insecure HTTP request is deprecated 'http://www.sparetimelabs.com/maven2/'; switch to HTTPS or opt-in as ("sparetimelabs" at "http://www.sparetimelabs.com/maven2/").withAllowInsecureProtocol(true)
